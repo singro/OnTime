@@ -1,0 +1,10 @@
+PODS:
+  - iOS7Colors (2.0.0)
+
+DEPENDENCIES:
+  - iOS7Colors (~> 2.0.0)
+
+SPEC CHECKSUMS:
+  iOS7Colors: 80d700ca0fe4415eeea1cfb74d4d790ffa0375ab
+
+COCOAPODS: 0.27.1
